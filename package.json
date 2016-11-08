@@ -1,0 +1,23 @@
+{
+  "name": "intervenant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efolio/intervenant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efolio/intervenant/issues"
+  },
+  "homepage": "https://github.com/efolio/intervenant#readme",
+  "dependencies": {
+    "console.table": "^0.7.0",
+    "lodash": "^4.16.6"
+  }
+}
