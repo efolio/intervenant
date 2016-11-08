@@ -68,14 +68,14 @@ const cases = {
     creditIS: 0.25,
     direct: 1,
   },
-  'CESU-decla': {
-    csInt: CSEmployee,
-    rCsIntFixed: 2,
-    rIRPrix: 0.5,
-    rIRCS: 0.5,
-    creditIS: 0.25,
-    direct: 0,
-  },
+  // 'CESU-decla': {
+  //   csInt: CSEmployee,
+  //   rCsIntFixed: 2,
+  //   rIRPrix: 0.5,
+  //   rIRCS: 0.5,
+  //   creditIS: 0.25,
+  //   direct: 0,
+  // },
 }
 
 function cout(prix, type) {
