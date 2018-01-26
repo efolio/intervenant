@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/efolio/intervenant#readme",
   "dependencies": {
-    "console.table": "^0.7.0",
+    "console.table": "^0.10.0",
     "lodash": "^4.16.6"
   }
 }
